@@ -1,0 +1,49 @@
+/* .hero{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:60px 0;
+   margin-left: 50px;
+}
+
+.hero-left h1 {
+  font-size:48px;
+  margin-bottom:20px;
+ 
+}
+
+.hero-left button{
+  background:red;
+  border:none;
+  padding:12px 24px;
+  border-radius:25px;
+  color:white;
+  margin-top:20px;
+}
+
+.hero-right img{
+  width:450px;
+
+} */
+
+
+.hero{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:60px;
+background:black;
+color:white;
+}
+
+.hero img{
+width:400px;
+}
+
+button{
+background:red;
+padding:10px 20px;
+border:none;
+border-radius:20px;
+color:white;
+}

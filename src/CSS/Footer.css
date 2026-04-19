@@ -1,0 +1,23 @@
+.footer{
+background-color:#0a0a0a;
+color: white;
+padding: 40px;
+}
+
+.footer-container{
+display: flex;
+justify-content: space-between;
+margin-bottom: 20px;
+}
+
+.footer input{
+padding:8px;
+border-radius:20px;
+border:none;
+}
+
+.copyright{
+text-align:center;
+margin-top:20px;
+color:gray;
+}
